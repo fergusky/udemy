@@ -1,0 +1,24 @@
+h1 {	
+	color: #000000;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+
+	border:	1px solid white;
+}
+
+li {
+	color: #4B0082;
+}
+
+h4 {
+	color: #0000FF;
+	background: #FF1020;
+}
+
+body {
+	/*background: url(https://upload.wikimedia.org/wikipedia/en/3/3d/MountainAshFloor.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
